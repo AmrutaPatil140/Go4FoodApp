@@ -1,0 +1,79 @@
+
+  .Form-groups{
+    position: absolute;
+    top:25%;
+    left:33%;
+    width: 400px;
+    height: 500px;
+   
+  }
+  .heading{
+    text-align: center;
+    font-size: 1.5rem;   
+  }
+  .Form-group{
+    margin-left: 20px;
+   
+    
+  }
+  .Form-group input{
+    width:92%;
+    height:30px;
+    margin-bottom: 1rem;
+    border-radius: 2px;
+    border: gray 1px solid;
+    font-size: 1rem;
+    padding-left: 5px;
+  }
+  .Form-group  label{
+    margin-bottom: 10px;
+  }
+  .Form-group button{
+    width:50%;
+    height:50px;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    color: black;
+    margin-left: 90px;
+    
+    cursor: pointer;
+  }
+  .group button:hover{
+    color: white;
+    background-color: black;
+  }
+  .Form-group1{
+    margin-left: 20px;
+    font-size: 1rem;
+  }
+  .group1{
+    
+    margin-top: 1rem;
+  }
+  .group{
+    margin-left: 5%;
+    margin-top: 5%;
+  }
+  .link{
+    
+  color: blueviolet;
+  }
+  .group2{
+    text-align: center;
+    margin-top: 3%;
+  }
+  
+  
+  @media screen and (min-width:579px)and (max-width:878px){
+    .Form-groups{
+        position: fixed;
+        
+        left:30%;
+        
+        width: 350px;
+        height:350px;
+    
+    }
+  }
+  

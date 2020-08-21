@@ -1,0 +1,70 @@
+.form{
+    background-color: cornflowerblue;
+}
+
+.FormFields{
+
+    position: absolute;
+    top:10%;
+    left:33%;
+    width: 500px;
+    height: 500px;
+    
+ }
+.heading{
+   text-align: center;
+    font-size: 1.5rem;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.form-group{
+    margin-left: 1rem;
+    
+}
+.form-group input{
+    width:92%;
+    height:30px;
+    margin-bottom: 1rem;
+    border-radius: 2px;
+    border: gray 1px solid;
+    font-size: 1rem;
+    padding-left: 5px;
+}
+.form-group label{
+    margin-bottom: 10px;
+}
+.group button{
+    width:50%;
+    height:50px;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    color: black;
+    cursor: pointer;
+    margin-left: 100px;
+}
+.group button:hover{
+    color: white;
+    background-color: black;
+}
+.group1{
+   margin-left: 25%;
+    margin-top: 5%;
+}
+.link{
+ color: blueviolet;
+}
+/* Responsiveness */
+
+
+@media screen and (min-width:579px)and (max-width:878px){
+    .FormFields{
+        position: fixed;
+        
+        left:30%;
+        
+        width: 350px;
+        height:350px;
+    
+    }
+}

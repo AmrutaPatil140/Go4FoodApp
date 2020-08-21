@@ -1,0 +1,21 @@
+
+.cuisine_type{
+    display: inline;
+    
+    height: 50%;
+   
+    background: #fff;
+    transition: transform .3s ease-out;
+    left:10px;
+   
+    margin-left: 20%;
+    width:10%;
+    overflow:hidden;
+    margin-top: 20px;
+}
+
+@media screen and (min-width:600px){
+    .cuisine_type {
+        width: "40%";
+    }
+}

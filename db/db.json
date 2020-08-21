@@ -1,0 +1,198 @@
+{
+    "restaurants":[{
+        "id" : 1 ,
+        "name": "Pizza Hut",
+        "cuisine_type": "Fast Food",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dw9fozb4zuntwv5ky22d",
+        "rating": "3.9",
+        "time": "31mins",
+        "cost":350,
+        "loc":"Pune"
+
+
+    },
+    {
+        "id" : 2 ,
+        "name": "McDonalds",
+        "cuisine_type": "Fast Food",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/blpi8sjpuvvsrwbgurbe",
+        "rating": 4.3,
+        "time": "30mins",
+        "cost":440,
+        "loc":"Pune"
+    },
+    {
+        "id" : 3,
+        "name": "Mr.Momo's",
+        "cuisine_type": "Chinese",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/shm195bobvdsgdgi6ict",
+        "rating": 4.3,
+        "time": "26mins",
+        "cost":100,
+        "loc":"Mumbai"
+
+
+    },
+    {
+        "id" : 4 ,
+        "name": "Just Bake",
+        "cuisine_type": "cafe,Fast Food",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/l3zlkoskmyfcgjisgrve",
+        "rating": 4.6,
+        "time": "20mins",
+        "cost":300,
+        "loc":"Nashik"
+
+    },
+    {
+        "id" : 5 ,
+        "name": "Mother India Cafe",
+        "cuisine_type": "Cafe",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zrxezu6zlowgsosujxh0",
+        "rating": 4.3,
+        "time": "20mins",
+        "cost":100,
+        "loc":"Mumbai"
+
+
+    },
+    {
+        "id" : 6 ,
+        "name": "Vicky's Kitchen",
+        "cuisine_type": "Fast Food",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gcf4bqweq7btobqrypzg",
+        "rating": 4.8,
+        "time": "35mins",
+        "cost":250,
+        "loc":"Nashik"
+    },
+    {
+        "id" : 9 ,
+        "name": "Parth Kitchen",
+        "cuisine_type": "Cafe",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lfm9bt6fcckih6ovw679",
+        "rating": 4.8,
+        "time": "20mins",
+        "cost":250,
+        "loc":"Kolhapur"
+
+
+    },
+    {
+        "id" : 10,
+        "name": "TheSandwich Center",
+        "cuisine_type": "Cafe,Beverages",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zrxezu6zlowgsosujxh0",
+        "rating": 3.4,
+        "time": "32mins",
+        "cost":150,
+        "loc":"Sangli"
+
+
+    },
+    
+    {
+        "id" : 11 ,
+        "name": "Hotel Upkar",
+        "cuisine_type": "South Indian",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/oicj8hx5bioqtmtacqjq",
+        "rating": "4.9",
+        "time": "35mins",
+        "cost":300,
+        "loc":"Sangli"
+
+
+    },
+    {
+        "id" : 12 ,
+        "name": "Hotel Rajpurush",
+        "cuisine_type": "North Indian",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/i9yz6fm572mvtonjld2s",
+        "rating": 3.8,
+        "time": "32mins",
+        "cost":200 ,
+        "loc":"Kolhapur"
+
+
+    },
+    {
+        "id" : 13,
+        "name": "Rajwadi",
+        "cuisine_type": "North Indian",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ys3e3bp1a7lmsrbleen2",
+        "rating": 3.9,
+        "time": "20mins",
+        "cost":200,
+        "loc":"Mumbai"
+
+
+    },
+    {
+        "id" : 14,
+        "name": "Cake Corner",
+        "cuisine_type": "Indian",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/coruvsnun83h1yc49crx",
+        "rating": 4.8,
+        "time": "30mins",
+        "cost":90,
+        "loc":"Pune"
+
+
+    },
+    {
+        "id" : 15,
+        "name": "The Bakery",
+        "cuisine_type": "Cafe,Beverages",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kjayyw2rtf9qh1ebr96a",
+        "rating": 3.2,
+        "time": "30mins",
+        "cost":200,
+        "loc":"Sangli"
+
+
+    },
+    {
+        "id" : 16,
+        "name": "The Bakery",
+        "cuisine_type": "Cafe,Beverages",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bhrcig1tw8i3s9cewakl",
+        "rating": 3.5,
+        "time": "25mins",
+        "cost":150,
+        "loc":"Pune"
+
+    },
+    {
+        "id" : 17,
+        "name": "Cafe Milano",
+        "cuisine_type": "Cafe,Beverages",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/eewmmhuixogicmmfp9z0",
+        "rating": 3.5,
+        "time": "30mins",
+        "cost":150,
+        "loc":"Mumbai"
+
+
+    },
+    {
+        "id" : 18,
+        "name": "Angles Cafe",
+        "cuisine_type": "Cafe,Beverages",
+        "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jfc3mrywe2kufsu6gjya",
+        "rating": 3.5,
+        "time": "38mins",
+        "cost":150,
+        "loc":"Mumbai"
+
+
+    }
+    
+    
+    
+    
+
+    
+    
+    
+    ]}    
+

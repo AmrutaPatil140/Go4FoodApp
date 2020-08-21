@@ -1,0 +1,84 @@
+
+.head{
+    position: fixed;
+    top: 0;
+    height: 100%;
+    overflow-y: scroll;
+    background: #fff;
+    transition: transform .3s ease-out;
+    z-index: 10001;
+    left:auto;
+    right:0;
+    margin-left: 75%;
+    width:25%;
+    overflow:hidden;
+    margin-top: 70px;
+  }
+  .cuisine{
+    
+      font-size:20px;
+      text-decoration: solid;
+      margin-top: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: darkslategray;
+  }
+  .fil{
+      margin-left: 10px;
+      font-size: 1.3rem;
+      font-weight: 25px;
+      color: #282c3f;
+      line-height: 1.2rem;
+  }
+  .fi{
+     padding-left: 30px; 
+     padding-right: 43px; 
+     width: 445px;
+  }
+  .filt{
+    padding: 25px 0 10px;
+    margin-bottom: 20px;
+  }
+  .lbl{
+    width: 40%;
+    padding-top: 15px;
+    cursor: pointer;
+  }
+  .lbl1{
+    position: relative;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+  }
+  .spn{
+    cursor: pointer;
+    display: block;
+    height: 100%;
+    border: 1px solid #a9abb2;
+    background-color: transparent;
+    transition: border .3s;
+    margin-left: 20px;
+  }
+  .di{
+    
+      float: left;
+      margin-left: 10px;
+      
+  }
+  .ca{
+      margin-left: 5px;
+      float: right;
+      font-size: 17px;
+  }
+  .lb2{
+    width: 39%;
+    padding-top: 15px;
+    cursor: pointer;
+  }
+  @media screen and (min-width:600px)and (max-width:878px){
+    .head{
+     margin-right: 40px;
+     
+width:39%;
+    }
+  }
+ 
